@@ -4,7 +4,7 @@
 
 Full Stack Developer:rocket: from Brazil, I have 1 years experience in Front-end and Back-end. 
 
-- 🔭 I’m currently working on freelance projects: [Workana](https://www.workana.com/freelancer/d840a1aedff8a6e7bc21374e7ad11b09?ref=user_dropdown).
+- 🔭 I’m currently working on freelance projects.
 - :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
