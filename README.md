@@ -1,6 +1,6 @@
 ### Hello world, I'm Pedro :octocat:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrogiampietro/)](https://www.linkedin.com/in/pedrogiampietro/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pedrogiampietro@hotmail.com)](mailto:pedrogiampietro@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrogiampietro@hotmail.com)](mailto:pedrogiampietro@hotmail.com)
 
 Full Stack Developer:rocket: from Brazil, I have 1 years experience in Front-end and Back-end. 
 
