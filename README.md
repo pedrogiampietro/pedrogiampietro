@@ -4,7 +4,7 @@
 
 Pedro Giampietro, 28, Rio de Janeiro! 👾
 
-Estudante da stack Javascript, React, Node, ES6, afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades na mesma.
+Pleno - Javascript, React, Node, ES6, afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades na mesma.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogiampietro&layout=compact&theme=radical" alt="My Github Stats">
 
