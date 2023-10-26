@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Hello world !
 
-Pedro Giampietro, 28, Rio de Janeiro! 👾
+Pedro Giampietro, 29, Rio de Janeiro! 👾
 
 Javascript, React, Node, ES6, afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades na mesma.
 
