@@ -7,8 +7,8 @@ Javascript, React, Node, Typescript, React-native, ES6, in order to learn more a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## - 📫 Linkedin
 
+<h3 align="center"><a href="https://www.linkedin.com/in/pedrogiampietro">Linkedin</a>! 🚀</h3>
 
-<h3 align="center">[Linkedin](https://www.linkedin.com/in/pedrogiampietro/)! 🚀</h3>
 <h3>About me 🧙‍♀️</h3>
 
 - 🔭 Currently working on [readyapp](https://github.com/pedrogiampietro/ready-app)
