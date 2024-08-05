@@ -35,5 +35,5 @@ Javascript, React, Node, Typescript, React-native, ES6, in order to learn more a
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogiampietro&theme=radical" alt="pedrogiampietro" /></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrogiampietro&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrogiampietro&theme=radical" height="180em" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrogiampietro&theme=radical" alt="wick3dr0se" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrogiampietro&theme=radical" alt="pedrogiampietro" /></a>
 </div>
