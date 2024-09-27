@@ -11,7 +11,7 @@ Javascript, React, Node, Typescript, React-native, ES6, in order to learn more a
 
 <h3>About me 🧙‍♀️</h3>
 
-- 🔭 Currently working on [readyapp](https://github.com/pedrogiampietro/ready-app)
+- 🔭 Currently working on YDUQS.
 - 🤝 Seeking help with projects -
 - 🌱 Currently learning **Python** and **Go**
 - 💬 Ask me about **Javascript**, **React** or **Linux**
