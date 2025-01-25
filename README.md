@@ -4,9 +4,6 @@ Hey 👋, I'm <span style="background-color:red;">Pedro Giampieetro!</span>
 Javascript, React, Node, Typescript, React-native, ES6, in order to learn more about technology and improve my skills in it.
 </h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## - 📫 Linkedin
-
 <h3 align="left"><a href="https://www.linkedin.com/in/pedrogiampietro">Linkedin</a>! 🚀</h3>
 
 <h3>About me 🧙‍♀️</h3>
@@ -28,7 +25,6 @@ Javascript, React, Node, Typescript, React-native, ES6, in order to learn more a
 </p>
 
 <h3 align="center">Statistics</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <p><img src="https://komarev.com/ghpvc/?username=pedrogiampietro&label=Views&color=fe428e&style=for-the-badge" alt="pedrogiampietro" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogiampietro&theme=radical" alt="pedrogiampietro" /></p>
