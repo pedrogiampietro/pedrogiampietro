@@ -1,34 +1,44 @@
-<h3 align="center">
-Hey 👋, I'm <span style="background-color:red;">Pedro Giampieetro!</span> 
+<h1 align="center">Pedro Giampietro</h1>
+<h3 align="center">Senior Frontend Engineer &nbsp;|&nbsp; React &amp; Next.js</h3>
 
-Javascript, React, Node, Typescript, React-native, ES6, in order to learn more about technology and improve my skills in it.
-</h3>
-
-<h3 align="left"><a href="https://www.linkedin.com/in/pedrogiampietro">Linkedin</a>! 🚀</h3>
-
-<h3>About me 🧙‍♀️</h3>
-
-- 🤝 Seeking help with projects -
-- 🌱 Currently learning **Python** and **Go**
-- 💬 Ask me about **Javascript**, **React** or **Linux**
-- ⚡ Fun fact **Typescript** > **React**
-
-<h3 align="left">Languages and Tools</h3>
-<p align="leftr">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/go-original.svg" alt="Go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrogiampietro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-<p><img src="https://komarev.com/ghpvc/?username=pedrogiampietro&label=Views&color=fe428e&style=for-the-badge" alt="pedrogiampietro" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogiampietro&theme=radical" alt="pedrogiampietro" /></p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrogiampietro&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrogiampietro&theme=radical" height="180em" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrogiampietro&theme=radical" alt="pedrogiampietro" /></a>
-</div>
+<br/>
+
+## About
+
+Senior frontend engineer focused on building scalable interfaces, component architecture, and performance. Hands-on experience with React, Next.js, and TypeScript, working from architecture decisions through to shipping high-quality products.
+
+## Stack
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-323330?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-323330?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-323330?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-323330?style=flat-square&logo=angular&logoColor=DD0031" />
+</p>
+
+**Backend & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-323330?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Git-323330?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/Cypress-323330?style=flat-square&logo=cypress&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Rio de Janeiro, Brazil-323330?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Frontend Architecture-323330?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-Senior Level-323330?style=flat-square" />
+</p>
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/pedrogiampietro](https://www.linkedin.com/in/pedrogiampietro/)
